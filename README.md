@@ -38,5 +38,5 @@ This project explores **Wine Quality** and **Forest Fire** datasets using **Expl
 ## 🚀 How to Use  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/KaumudiRRawal/wine-forestfires-analysis.git
+   git clone https://github.com/KaumudiRRawal/Feature-Engineering-Visualization-Wine-Wildfire-Data.git
 
